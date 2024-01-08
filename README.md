@@ -1,6 +1,6 @@
 <center>
 
-## Crux Take Home Assessment: Financial Entity Search System
+## Financial Entity Search System
 
  Ali Ahmed
  October 16, 2023
